@@ -9,6 +9,8 @@ Synchronize/merge two Android strings.xml language files. For example, your Engl
 
 
 Prior to synchronizing/merging
+
+
 | English strings.xml | Spanish strings.xml |
 | ------ | ------ |
 | &lt;string name="action_calc"&gt;Calculator&lt;/string&gt; | &lt;string name="action_calc"&gt;Calculadora&lt;/string&gt; |
@@ -17,6 +19,8 @@ Prior to synchronizing/merging
 
 
 After synchronizing/merging. NOTE: Entries sorted by "name"
+
+
 | English strings.xml | Spanish strings.xml |
 | ------ | ------ |
 | &lt;string name="action_calc"&gt;Calculator&lt;/string&gt; | &lt;string name="action_calc"&gt;Calculadora&lt;/string&gt; |
